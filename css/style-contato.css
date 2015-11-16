@@ -1,0 +1,266 @@
+<<<<<<< HEAD
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+@font-face {
+    font-family: 'labtattoo';
+    src: url('../fonte/labtattoo.eot');
+    src: url('../fonte/labtattoo.eot?#iefix') format('embedded-opentype'),
+    url('../fonte/labtattoo.woff2') format('woff2'),
+    url('../fonte/labtattoo.woff') format('woff'),
+    url('../fonte/labtattoo.ttf') format('truetype'),
+    url('../fonte/labtattoo.svg#lobster_tworegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: labtattoo;
+}
+
+.menu ul {
+    text-align:center;
+}
+.menu ul li{
+    display: inline;
+    padding: 75px;
+    font-size: 30px;
+}
+
+a:link, a:visited, a:active {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    color: black;
+}
+
+.principal-contato{
+    margin:0 auto;
+    width:1280px;
+    margin-top: 11px;
+}
+
+.principal-contato:after{
+    display: block;
+    clear: both;
+    content: '';
+}
+
+.mainform {
+    display: block;
+    width: 360px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.mainform:after{
+    display: block;
+    clear: both;
+    content: '';
+}
+
+.footer{
+    margin-top: 20px;
+}
+
+.footer:after{
+    display: block;
+    clear: both;
+    content: '';
+}
+
+.adress{
+    float:left;
+    text-align:center;
+    margin-left: 40px;
+}
+
+.adress:after{
+    display:block;
+    clear:both;
+    content:'';
+}
+
+.cartoes{
+    float: left;
+    margin-left: 190px;
+}
+
+.cartoes:after{
+    display: block;
+    clear: both;
+    content: '';
+}
+
+.social{
+    float:right;
+    margin-right: 40px;
+}
+
+.social:after{
+    display:block;
+    clear:both;
+    content:'';
+}
+
+.ico{
+    float:left;
+    margin-left:20px;
+}
+
+.ico:after{
+    display:block;
+    clear:both;
+    content:'';
+}
+
+.copyright{
+    margin-top: 5px;
+    font-size: 12px;
+    color: blue;
+}
+
+.copyright:after{
+    display: block;
+    clear: both;
+    content: '';
+}
+=======
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+@font-face {
+	font-family: 'labtattoo';
+	src: url('../fonte/labtattoo.eot');
+	src: url('../fonte/labtattoo.eot?#iefix') format('embedded-opentype'),
+	url('../fonte/labtattoo.woff2') format('woff2'),
+	url('../fonte/labtattoo.woff') format('woff'),
+	url('../fonte/labtattoo.ttf') format('truetype'),
+	url('../fonte/labtattoo.svg#lobster_tworegular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body{
+	font-family: labtattoo;
+}
+
+.menu ul {
+	text-align:center;
+}
+.menu ul li{
+	display: inline;
+	padding: 75px;
+	font-size: 30px;
+}
+
+a:link, a:visited, a:active {
+	text-decoration: none;
+	color: blue;
+}
+
+a:hover {
+	color: black;
+}
+
+.principal-contato{
+	margin:0 auto;
+	width:1280px;
+	margin-top: 11px;
+}
+
+.principal-contato:after{
+	display: block;
+	clear: both;
+	content: '';
+}
+
+.mainform {
+	display: block;
+	width: 360px;
+	margin: 0 auto;
+	margin-top: 20px;
+    text-align: center;
+}
+
+.mainform:after{
+	display: block;
+	clear: both;
+	content: '';
+}
+
+.footer{
+	margin-top: 20px;
+}
+
+.footer:after{
+	display: block;
+	clear: both;
+	content: '';
+}
+
+.adress{
+	float:left;
+	text-align:center;
+	margin-left: 40px;
+}
+
+.adress:after{
+	display:block;
+	clear:both;
+	content:'';
+}
+
+.cartoes{
+	float: left;
+	margin-left: 190px;
+}
+
+.cartoes:after{
+	display: block;
+	clear: both;
+	content: '';
+}
+
+.social{
+	float:right;
+	margin-right: 40px;
+}
+
+.social:after{
+	display:block;
+	clear:both;
+	content:'';
+}
+
+.ico{
+	float:left;
+	margin-left:20px;
+}
+
+.ico:after{
+	display:block;
+	clear:both;
+	content:'';
+}
+
+.copyright{
+	margin-top: 5px;
+	font-size: 12px;
+	color: blue;
+}
+
+.copyright:after{
+	display: block;
+	clear: both;
+	content: '';
+}
+>>>>>>> 5034b876d69233544bd26f3db4547de867b57b94
